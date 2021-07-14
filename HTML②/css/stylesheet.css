@@ -1,0 +1,292 @@
+html{
+    font-family: serif;
+}
+
+.header{
+    
+    background-color:#330000;
+    height: 80px;
+    width: 100%;
+    color: white;
+}
+
+
+
+.header-logo{
+
+    font-size: 25px;
+    
+    padding-left:20px;
+    padding-right:50px ;
+    font-weight:bold;
+    line-height:80px;
+    cursor: pointer;
+    float: left;
+    
+}
+
+.header-logo:hover{
+opacity: 0.1;
+}
+
+.header-logo a{
+    color: white;
+    text-decoration: none;
+}
+
+.header-list{
+
+    font-size: 18px;
+    
+    
+}
+
+
+
+.header-list li{
+    float: left;
+    list-style: none;
+    line-height:80px;
+    padding-right:50px;
+    padding-left: 50px;
+    
+}
+
+.header-list a{
+
+    text-decoration: none;
+    color: white;
+    line-height:80px;
+}
+
+.header-list li:hover{
+    opacity: 0.1;
+}
+
+
+
+
+.slider{
+
+    padding:30px;
+    text-align: center;
+    background-color: #f5f5f5;
+
+}
+
+.slider img{
+
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+
+}
+
+.hello-text{
+
+text-align: center;
+padding:20px;
+letter-spacing: 5px;
+font-weight: bold;
+
+}
+
+
+.hello-text h2{
+
+padding-bottom:10px;
+
+}
+
+
+.concer-line{
+
+height: 385px;
+
+}
+
+.concert{
+
+background-color:#330000 ;
+
+}
+
+.concert h3{
+
+color: white;
+padding: 10px;
+font-weight: bold;
+}
+
+.concert-text li{
+
+float:left;
+list-style: none;
+
+}
+
+.concert-text img{
+
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+    padding-right:10px ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.concert-text a{
+color: white;
+background-color: #330000;
+text-decoration: none;
+padding: 8px;
+
+}
+
+
+.lesson-line{
+
+    height: 385px;
+    
+    }
+    
+
+.lesson{
+
+    background-color:#330000 ;
+    text-align: right;
+    }
+
+
+.lesson h3{
+
+color: white;
+padding: 10px;
+font-weight: bold;
+ }
+
+
+
+ .lesson-text li{
+
+    float:left;
+    list-style: none;
+    
+ }
+
+ 
+ .lesson-text a{
+    color: white;
+    background-color: #330000;
+    text-decoration: none;
+    padding: 8px;
+    
+    }
+
+
+.lesson-text img{
+width: 200px;
+height: 300px;
+object-fit: cover;
+padding-right:10px ;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+.img-left{
+
+padding-left:185px;
+
+}
+
+.musician-line{
+
+    height: 385px;
+    
+    }
+
+
+.musician{
+
+    background-color:#330000 ;
+    
+    }
+
+
+    .musician h3{
+
+        color: white;
+        padding: 10px;
+        font-weight: bold;
+        }
+
+ .musician-text li{
+
+  float:left;
+  list-style: none;
+            
+    }
+            
+ .musician-text img{
+            
+ width: 200px;
+ height: 300px;
+ object-fit: cover;
+ padding-right:10px ;
+ padding-top: 10px;
+ padding-bottom: 10px;
+ }
+            
+ .musician-text a{
+ color: white;
+ background-color: #330000;
+ text-decoration: none;
+ padding: 8px;
+            
+ }
+            
+            
+.space{
+
+padding-top:50px;
+
+
+}
+
+.footer{
+
+background-color:#f5f5f5 ;
+width: 100%;
+height: 300px;
+}
+
+.footer-logo{
+
+    font-size: 25px;
+    font-weight:bold;
+   
+    padding:20px;
+
+   
+    
+    
+}
+
+.footer-list li{
+
+    list-style: none;
+    padding-bottom:15px;
+    padding-left:20px;
+    
+}
+
+.footer-list a{
+
+   
+    color: black;
+    text-decoration: none;
+    font-weight:bold;
+    
+}
+
+
